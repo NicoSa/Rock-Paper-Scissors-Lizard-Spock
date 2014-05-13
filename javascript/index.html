@@ -34,7 +34,9 @@
           tony.picks(game.sample());
 
           $('#results').prepend('<li>' + game.winningMessage() + '</li>');
-          $('#results li:gt(5)').remove();
+          $('#results li:nth-child(6)').fadeOut(1000, function(){
+            $(this).remove();
+          })
         })
       })
     </script>
