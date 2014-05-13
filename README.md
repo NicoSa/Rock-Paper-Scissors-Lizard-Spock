@@ -1,7 +1,7 @@
 Rock, Paper, Scissors, Lizard, Spock
 ===
 We´re trying to implement this game -> [Rules of the Game]
-![test](/rockpaperscissorlizardspock_screenshot.png)
+![test](javascript/rockpaperscissorlizardspock_screenshot.png)
 
 Heroku
 ----
