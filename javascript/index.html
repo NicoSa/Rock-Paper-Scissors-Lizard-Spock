@@ -26,11 +26,16 @@
         var tony = new Player('Tony');
         var game = new Game(alex, tony)
 
+
         $('.choices img').on('click', function(){
+          var picks = ['rock','paper','scissors','lizard','spock']
+
+
           alex.picks($(this).data('pickedy'));
-          tony.picks('rock');
+          tony.picks(game.sample(picks));
 
           $('#results').prepend('<li>' + game.winningMessage() + '</li>');
+          $('#results li:gt(5)').remove();
         })
       })
     </script>
