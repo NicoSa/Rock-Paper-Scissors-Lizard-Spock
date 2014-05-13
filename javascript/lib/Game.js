@@ -29,12 +29,12 @@ Game.prototype.loser = function() {
 Game.prototype.winningMessage = function() {
   var message;
 
-  if(this.winner()) {
+  if(this._isSamePick()) {
+    message = 'Draw';
+  } else {
     message = [this.winner().name,
     this._victoryVerbFor(this.winner().pick, this.loser().pick),
     this.loser().name].join(' ');
-  } else {
-    message = 'Draw';
   }
 
   return message;
