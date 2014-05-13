@@ -1,4 +1,4 @@
-###Rock, Paper, Scissors, Lizard, Spock
+Rock, Paper, Scissors, Lizard, Spock
 ===
 We´re trying to implement this game -> [Rules of the Game]
 ![](/rockpaperscissorlizardspock_screenshot.png)
