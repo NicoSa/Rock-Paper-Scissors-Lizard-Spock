@@ -22,8 +22,16 @@ How to run it
 ```sh
 git clone https://github.com/NicoSa/rockpaperscissors
 cd rockpaperscissorslizardspock
-open file:///put your individual path/index.html
+open javascript/index.html
 ```
+How to run tests
+----
+```sh
+cd javascript
+open SpecRunner.html
+```
+- Refresh browser to run test
+
 [Rules of the Game]:https://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-spock
 Pairing partners
 ----
