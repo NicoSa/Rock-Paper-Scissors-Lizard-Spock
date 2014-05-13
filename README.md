@@ -3,6 +3,10 @@ Rock, Paper, Scissors, Lizard, Spock
 We´re trying to implement this game -> [Rules of the Game]
 ![test](/rockpaperscissorlizardspock_screenshot.png)
 
+Heroku
+----
+[App on Heroku]
+
 Objectives of exercise
 ----
 Learning basic Javascript, Jquery and Jasmine and deploying it using Heroku.
@@ -39,3 +43,4 @@ Pairing partners
 [Louise]:https://github.com/loulai
 [Sroop]:https://github.com/sroop
 [test]:https://nicolearnscoding.blogspot.co.uk
+[App on Heroku]:http://nicorockpapersls.herokuapp.com
