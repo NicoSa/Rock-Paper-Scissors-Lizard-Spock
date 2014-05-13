@@ -27,8 +27,7 @@ open file:///put your individual path/index.html
 [Rules of the Game]:https://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-spock
 Pairing partners
 ----
-[Sroop]
-[Louise]
+[Sroop],[Louise]
 [Louise]:https://github.com/loulai
 [Sroop]:https://github.com/sroop
 
