@@ -28,11 +28,10 @@
 
 
         $('.choices img').on('click', function(){
-          var picks = ['rock','paper','scissors','lizard','spock']
 
 
           alex.picks($(this).data('pickedy'));
-          tony.picks(game.sample(picks));
+          tony.picks(game.sample());
 
           $('#results').prepend('<li>' + game.winningMessage() + '</li>');
           $('#results li:gt(5)').remove();
