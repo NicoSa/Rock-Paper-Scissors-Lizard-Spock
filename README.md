@@ -1,7 +1,7 @@
 Rock, Paper, Scissors, Lizard, Spock
 ===
 We´re trying to implement this game -> [Rules of the Game]
-![](/rockpaperscissorlizardspock_screenshot.png)
+![test](/rockpaperscissorlizardspock_screenshot.png)
 
 Objectives of exercise
 ----
@@ -30,4 +30,4 @@ Pairing partners
 [Sroop],[Louise]
 [Louise]:https://github.com/loulai
 [Sroop]:https://github.com/sroop
-
+[test]:https://nicolearnscoding.blogspot.co.uk
