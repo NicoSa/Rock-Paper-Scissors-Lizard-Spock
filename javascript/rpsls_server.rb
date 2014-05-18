@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-	erb :louise
+  erb :louise
 end

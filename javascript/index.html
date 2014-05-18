@@ -33,7 +33,7 @@
           alex.picks($(this).data('pickedy'));
           tony.picks(game.sample());
 
-          $('#results').prepend('<li>' + game.winningMessage() + '</li>');
+          $('#results').ö('<li>' + game.winningMessage() + '</li>');
           $('#results li:nth-child(6)').fadeOut(1000, function(){
             $(this).remove();
           })

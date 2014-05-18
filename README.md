@@ -1,6 +1,6 @@
 Rock, Paper, Scissors, Lizard, Spock
 ===
-We´re trying to implement this game -> [Rules of the Game]
+We´re trying to implement this game -> [Rules of the Game] in week 7 at Makers Academy.
 ![test](javascript/rockpaperscissorlizardspock_screenshot.png)
 
 Heroku
